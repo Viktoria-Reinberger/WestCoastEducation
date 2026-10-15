@@ -1,0 +1,188 @@
+{
+  "Courses": [
+    {
+      "CourseName": "c# Grund - Programmering 1",
+      "CourseCode": "SyS\u00E426",
+      "CoursePoints": 850,
+      "CourseStartDate": "2026-08-15T00:00:00",
+      "CourseEndDate": "2028-05-14T00:00:00",
+      "DistanceCourse": false,
+      "Teacher": {
+        "KnowledgeArea": "Systemutveckling med s\u00E4kerhets inriktning",
+        "ResponsibleCourses": "",
+        "FirstName": "Michael",
+        "LastName": "Gustavsson",
+        "PhoneNumber": 768505959,
+        "SocialSecurityNumber": 1979000011,
+        "Address": "Propellergatan 1",
+        "PostalCode": 21115,
+        "Town": "Malm\u00F6"
+      },
+      "Students": [
+        {
+          "FirstName": "Viktoria",
+          "LastName": "Reinberger",
+          "PhoneNumber": 768505939,
+          "SocialSecurityNumber": 307300000,
+          "Address": "Propellergatan 1",
+          "PostalCode": 21115,
+          "Town": "Malm\u00F6"
+        },
+        {
+          "FirstName": "David",
+          "LastName": "Eriksson",
+          "PhoneNumber": 0,
+          "SocialSecurityNumber": 0,
+          "Address": "",
+          "PostalCode": 0,
+          "Town": ""
+        },
+        {
+          "FirstName": "Emma",
+          "LastName": "Lindborg",
+          "PhoneNumber": 0,
+          "SocialSecurityNumber": 0,
+          "Address": "",
+          "PostalCode": 0,
+          "Town": ""
+        },
+        {
+          "FirstName": "Bengt",
+          "LastName": "Nilsson",
+          "PhoneNumber": 0,
+          "SocialSecurityNumber": 0,
+          "Address": "",
+          "PostalCode": 0,
+          "Town": ""
+        },
+        {
+          "FirstName": "test ",
+          "LastName": "testsson",
+          "PhoneNumber": 767676787,
+          "SocialSecurityNumber": 0,
+          "Address": "testadress.se",
+          "PostalCode": 999,
+          "Town": "malm\u00F6 test"
+        }
+      ]
+    },
+    {
+      "CourseName": "test kurs",
+      "CourseCode": "test00",
+      "CoursePoints": 900,
+      "CourseStartDate": "2026-09-09T00:00:00",
+      "CourseEndDate": "2028-09-09T00:00:00",
+      "DistanceCourse": false,
+      "Teacher": {
+        "KnowledgeArea": "",
+        "ResponsibleCourses": "",
+        "FirstName": "",
+        "LastName": "",
+        "PhoneNumber": 0,
+        "SocialSecurityNumber": 0,
+        "Address": "",
+        "PostalCode": 0,
+        "Town": ""
+      },
+      "Students": []
+    }
+  ],
+  "Teachers": [
+    {
+      "KnowledgeArea": "Systemutveckling med s\u00E4kerhets inriktning",
+      "ResponsibleCourses": "",
+      "FirstName": "Michael",
+      "LastName": "Gustavsson",
+      "PhoneNumber": 768505959,
+      "SocialSecurityNumber": 1979000011,
+      "Address": "Propellergatan 1",
+      "PostalCode": 21115,
+      "Town": "Malm\u00F6"
+    },
+    {
+      "KnowledgeArea": "",
+      "ResponsibleCourses": "",
+      "FirstName": "testar",
+      "LastName": "testsson",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "cecec",
+      "PostalCode": 0,
+      "Town": "ecewc"
+    }
+  ],
+  "Students": [
+    {
+      "FirstName": "Viktoria",
+      "LastName": "Reinberger",
+      "PhoneNumber": 768505939,
+      "SocialSecurityNumber": 307300000,
+      "Address": "Propellergatan 1",
+      "PostalCode": 21115,
+      "Town": "Malm\u00F6"
+    },
+    {
+      "FirstName": "David",
+      "LastName": "Eriksson",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "",
+      "PostalCode": 0,
+      "Town": ""
+    },
+    {
+      "FirstName": "Emma",
+      "LastName": "Lindborg",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "",
+      "PostalCode": 0,
+      "Town": ""
+    },
+    {
+      "FirstName": "Bengt",
+      "LastName": "Nilsson",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "",
+      "PostalCode": 0,
+      "Town": ""
+    }
+  ],
+  "CourseLeaders": [
+    {
+      "DateOfHire": "2000-01-01T00:00:00",
+      "KnowledgeArea": "Utbildningsledare",
+      "ResponsibleCourses": "",
+      "FirstName": "Robert",
+      "LastName": "Robertsson",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "",
+      "PostalCode": 0,
+      "Town": ""
+    }
+  ],
+  "Administrators": [
+    {
+      "DateOfHire": "2000-01-01T00:00:00",
+      "KnowledgeArea": "Administration",
+      "ResponsibleCourses": "",
+      "FirstName": "Thomas",
+      "LastName": "Thomasson",
+      "PhoneNumber": 0,
+      "SocialSecurityNumber": 0,
+      "Address": "",
+      "PostalCode": 0,
+      "Town": ""
+    }
+  ],
+  "Applications": [
+    {
+      "FirstName": "Sofie",
+      "LastName": "Sofiesson",
+      "CourseCode": "SyS\u00E426",
+      "Status": " V\u00E4ntar p\u00E5 beslut"
+    }
+  ]
+}
